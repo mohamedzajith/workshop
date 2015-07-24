@@ -1,4 +1,10 @@
 <?php
+//sdfsfsfds
+//sdfsdfsdf
+/*
+sdfsfsdfsf
+sdfsdf
+*/
 require 'core.php';
 require 'connect.php';
 
